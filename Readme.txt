@@ -1,0 +1,1 @@
+A C program that stores the information of 10 students (roll number, name, and marks). Take input from the user and print it in a table format and after that calculate the average of marks of all the students, using structures. Use file handling (I/O) to write in the file and read from file and display the output.
